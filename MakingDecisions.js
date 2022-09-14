@@ -10,7 +10,7 @@ let gengarAttach = 35
         console.log(i)
     }
 
-
+ console.log(i = 1)
 
     for(i=20; i >=0; i -=2){
         console.log(i)
